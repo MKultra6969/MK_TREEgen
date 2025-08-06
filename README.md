@@ -1,4 +1,4 @@
-# structureGen by mkultra69
+# structureGen | MK_TREEgen
 
 ![License: MIT](https://img.shields.io/badge/License-WTFPL-yellow.svg)
 ![Python Version](https://img.shields.io/badge/python-3.6%2B-blue.svg)
